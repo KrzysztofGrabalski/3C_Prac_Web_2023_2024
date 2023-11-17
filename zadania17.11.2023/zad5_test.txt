@@ -1,0 +1,10 @@
+1.c 
+2.a
+3.b
+4.c 
+5.a 
+
+switch bedzie lepszy bo
+1.skrypt jest czytelniejszy dla uzytkownika
+2.bedzie zajmowal mniej miejsca niz zrobiony inaczej
+3.nie trzeba powtarzac warunku
