@@ -1,0 +1,1 @@
+Programista korzysta z pętli aby ułatwić swoja pracę. min. automatuzyja one jego prace i powtarzalne zadania. Pozwalaja na optymalizowanie swojego kodu. Skracają one równiez czas dzialania programu.
