@@ -1,0 +1,6 @@
+https://github.com/login
+
+metoda to post
+przechowuje dane w pliku php
+typy pol to username,email,password
+liczba pol to 2

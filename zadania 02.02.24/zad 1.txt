@@ -1,0 +1,7 @@
+zalety
+post- metoda moze byc uzyta gdy dlugosc infomrmacji przekroczy 1000 znakow i tam gdzie dane formularza nie powinny byc widoczne w adresie witryny
+get- umieszczenie jej w w adresie soiwidyhe ze nie trzeba formularza zeby zmienic zawartosc zmiennych
+
+Wady
+Post- nie posluguje sie adresem URL dzieki czemu uzytkownik ich nie zobaczy, post nie ma ograniczenia dlugosci danych
+get- dlugosc adresu url jest ograniczona, widac jakie pola zostaly przesłane i widac ich zawartosc.

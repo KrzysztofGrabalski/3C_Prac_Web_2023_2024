@@ -1,0 +1,8 @@
+1
+http://localhost/02.02.2024/zadania_02.02.24/zadanie3.php
+
+
+Roznice miedzy post a get 
+Get umieszcza parametry wewnatrz w URL podczas gdy metoda post dolacza parametry do ciała
+
+obydwie sluza do pobierania informacji jednak metoda get jest bardziej niebezpieczna i wzmaga ryzyko włamania poprzez uieszczanie informacji w URL
