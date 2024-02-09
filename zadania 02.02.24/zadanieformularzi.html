@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Logowanie</title>
+        <style>
+            body{
+                background-color: rgb(34, 14, 126);
+                font-size: 30px;
+            color: white;
+            }
+        </style>
+	</head>
+	<body>
+		<form action="zadanieegzbmi.php" method="POST">
+            Podaj swoją datę urodzenia:<br><br>
+            <input type="date" name="data" value=""><br><br>
+            Podaj miejsce urodzenia:<br><br>
+            <input type="text" name="miejsce" value=""><br>
+            Wybierz płeć:<br><br>
+        <div class="rad">
+            <input type="radio" name="płeć" value="kobieta" >Kobieta<br>
+            <br>
+            <input type="radio" name="płeć" value="mężczyzna" >Mężczyzna<br>
+            <br>
+            <input type="radio" name="płeć" value="inne" >Wolę nie podawać<br>
+        <br>
+        </div>
+        Wyrażasz zgodę na przetwarzanie danych?<br>
+        Wyrażam zgodę.
+        <input type="checkbox" name="zgoda" value="tak"><br>
+        
+        Nie wyrażam zgody.
+        <input type="checkbox" name="zgoda" value="nie">
+        <br>
+        <input type="submit" name="wyslij" value="Wyslij formularz">
+        </form>
+    </body>
+</html>
